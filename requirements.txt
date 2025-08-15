@@ -11,4 +11,5 @@ s3tokenizer
 conformer
 safetensors
 transformers
+resemble-perth
 diffusers
